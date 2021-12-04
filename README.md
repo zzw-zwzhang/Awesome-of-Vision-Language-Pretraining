@@ -7,7 +7,7 @@ A curated list of mask-based vision and language methods and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-09-20
+### :high_brightness: Updated 2021-12-05
 
 
 ## Table of Contents
