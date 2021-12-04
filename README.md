@@ -43,7 +43,9 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | CVPR | `V`     | [PyTorch(3rd)](https://github.com/pengzhiliang/MAE-pytorch)   |  `1.3k`  |
-
+| [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/pdf/2111.11429.pdf) | CVPR | `V`     | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ### 2021
@@ -51,6 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -58,6 +61,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -66,6 +70,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -74,6 +79,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -82,6 +88,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
@@ -91,6 +98,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+
+
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
