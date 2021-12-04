@@ -42,7 +42,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | CVPR | `V`     | [PyTorch(3rd)](https://github.com/pengzhiliang/MAE-pytorch)   |  `1.3k`  |
 
 
 
