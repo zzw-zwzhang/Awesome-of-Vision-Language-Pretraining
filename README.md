@@ -49,7 +49,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/pdf/2111.09886.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/microsoft/SimMIM)   |  `168`  |
 | [PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers](https://arxiv.org/pdf/2111.12710.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/microsoft/PeCo)   |  `76`  |
 | [Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling
-](Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling) | CVPR | `V`     | [PyTorch(Author)](https://github.com/lulutang0608/Point-BERT)   |  `69`  |
+](https://arxiv.org/pdf/2111.12710.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/lulutang0608/Point-BERT)   |  `69`  |
 
 
 ### 2021
