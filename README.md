@@ -32,9 +32,17 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `V`          | `L`           | `VL`                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation |  |  |  |  |  |  | other types |
+| Explanation | Vision | Language | Vision & Language |  |  |  | other types |
+
+
+
+### 2022
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
