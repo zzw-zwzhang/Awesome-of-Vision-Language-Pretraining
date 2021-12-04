@@ -46,7 +46,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/pdf/2111.11429.pdf) | CVPR | `V`     | [PyTorch(Author)]()   |  ``  |
 | [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/microsoft/unilm/tree/master/beit)   |  `4k`  |
 | [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/pdf/2111.07832.pdf) | CVPR | `V`     | [PyTorch(Author)]()   |  ``  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [SimMIM: A Simple Framework for Masked Image Modeling](https://arxiv.org/pdf/2111.09886.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/microsoft/SimMIM)   |  `168`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 
 
