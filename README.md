@@ -12,9 +12,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Table of Contents
 
-- [Type of NAME](#type-of-name)
+- [Type of Masked Vision Language](#type-of-name)
 
-- [NAME](#NAME)
+- [Masked Vision Language](#NAME)
   - [2021 Venues](#2021)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
