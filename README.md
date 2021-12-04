@@ -44,6 +44,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) | CVPR | `V`     | [PyTorch(3rd)](https://github.com/pengzhiliang/MAE-pytorch)   |  `1.3k`  |
 | [Benchmarking Detection Transfer Learning with Vision Transformers](https://arxiv.org/pdf/2111.11429.pdf) | CVPR | `V`     | [PyTorch(Author)]()   |  ``  |
+| [BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf) | CVPR | `V`     | [PyTorch(Author)](https://github.com/microsoft/unilm/tree/master/beit)   |  `4k`  |
+| [iBOT: Image BERT Pre-Training with Online Tokenizer](https://arxiv.org/pdf/2111.07832.pdf) | CVPR | `V`     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 
