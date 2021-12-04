@@ -14,7 +14,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Type of Masked Vision Language](#type-of-name)
 
-- [Masked Vision Language](#NAME)
+- [Masked Vision Language](#masked-vision-language)
+  - [2022 Venues](#2022)
   - [2021 Venues](#2021)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
