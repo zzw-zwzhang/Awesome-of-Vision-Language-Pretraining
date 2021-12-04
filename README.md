@@ -1,8 +1,8 @@
-# Awesome-of-Masked-Vision-Language[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-of-Vision-Language-Pretraining[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![](https://img.shields.io/badge/Number-6-green)
 
-A curated list of mask-based vision and language methods and related resources.
+A curated list of vision and language pretraining methods and related resources.
 
 Please feel free to pull requests or open an issue to add papers.
 
@@ -12,9 +12,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Table of Contents
 
-- [Type of Masked Vision Language](#type-of-name)
+- [Type of Vision Language Pretraining](#type-of-name)
 
-- [Masked Vision Language](#masked-vision-language)
+- [Vision Language Pretraining](#masked-vision-language)
   - [2022 Venues](#2022)
   - [2021 Venues](#2021)
   - [2020 Venues](#2020)
@@ -32,7 +32,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | `V`          | `L`           | `VL`                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `V`          | `L`           | `VL`                   | `M`                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Vision | Language | Vision & Language |  |  |  | other types |
 
