@@ -116,7 +116,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes](https://arxiv.org/pdf/2111.12701.pdf) | 2021.11.24 | ``     | [PyTorch(Author)](https://github.com/samb-t/unleashing-transformers)   |  `66`  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
